@@ -1,0 +1,17 @@
+"Guid","CurrencyIsoCode","Name","SBQQ__Active__c","SBQQ__CheckPriorPurchases__c","SBQQ__ConfiguredSKU__c","SBQQ__ConstrainedOption__c","SBQQ__ConstrainingOption__c","SBQQ__OptionConstraintGroup__c","SBQQ__Type__c"
+091dccad-e387-4c4a-8445-68dde61df6e4,USD,Block and Unlimited Exclusion,true,false,926fe7ea-bde3-4cad-8ae4-d29bd9e9fde6,aa08c4d0-1911-4dcc-a528-cfd082988e59,"#N/A","#N/A",Exclusion
+2873a201-2104-4084-97f9-23062cb0cb01,USD,Choose Threat Bundle or Nothing,true,false,66973606-e9b9-4f41-bacd-48e4878af41f,d7776288-4f4d-42d8-9bdc-80c00aa1112e,"#N/A",EndSolution,Exclusion
+29e81004-3301-4a9c-8541-de0e892b49f4,USD,Contrain Endpoint SubOptions,true,false,7c2c2842-78c5-4562-9c4e-4c422d31546b,01beaea8-4bcc-4853-bc68-54e16ce3b71f,"#N/A",EndPThreat,Dependency
+2e6f4e10-0d62-4ed7-987d-cb355bec153f,USD,User Training Needs Admin Training,true,false,926fe7ea-bde3-4cad-8ae4-d29bd9e9fde6,3d23ac3b-e342-48e2-853a-281720eb5079,"#N/A","#N/A",Dependency
+3805d47b-a940-4741-ae0f-66fba2539271,USD,Choose Threat Bundle or Nothing,true,false,7c2c2842-78c5-4562-9c4e-4c422d31546b,cfc69a3b-61ef-4e82-86ec-0fe83caaa110,"#N/A",EndSolution,Exclusion
+3eab564e-5c9a-4b98-afdc-746c3f4b8770,USD,Contrain Endpoint SubOptions,true,false,7c2c2842-78c5-4562-9c4e-4c422d31546b,952a165e-edda-408a-b530-5a1d49ba3cdb,"#N/A",EndPThreat,Dependency
+5a3e5652-6af9-4d03-8ac7-11fe86a2b270,USD,Choose Threat Bundle or Nothing,true,false,66973606-e9b9-4f41-bacd-48e4878af41f,9aaff54d-398c-4813-bd89-4a629329c7dd,"#N/A",EndSolution,Exclusion
+6320d575-dbbd-4bbe-bb16-ebee46ea80a6,USD,Contrain Endpoint SubOptions,true,false,66973606-e9b9-4f41-bacd-48e4878af41f,d7776288-4f4d-42d8-9bdc-80c00aa1112e,"#N/A",EndPThreat,Dependency
+67babf46-4bd8-46b1-a9e9-c989cfe2c5dc,USD,Defense / Response Sold as Bundle,true,false,66973606-e9b9-4f41-bacd-48e4878af41f,d7776288-4f4d-42d8-9bdc-80c00aa1112e,"#N/A","#N/A",Exclusion
+86dd49e6-5dcc-448d-8644-f86032a9e4b2,USD,Reporting User Training Needs Admin Training,true,false,926fe7ea-bde3-4cad-8ae4-d29bd9e9fde6,cc4ef184-3ea2-4a9e-98fc-ee1f95ee9bc2,"#N/A","#N/A",Dependency
+9636a89b-ce48-4bc4-a5ec-7c63e72cbb2f,USD,Contrain Endpoint SubOptions,true,false,66973606-e9b9-4f41-bacd-48e4878af41f,9aaff54d-398c-4813-bd89-4a629329c7dd,"#N/A",EndPThreat,Dependency
+987197c3-e737-451e-868b-84527c775c59,USD,Defense / Response Sold as Bundle,true,false,7c2c2842-78c5-4562-9c4e-4c422d31546b,cfc69a3b-61ef-4e82-86ec-0fe83caaa110,"#N/A","#N/A",Exclusion
+be192bc9-45d6-442b-a5aa-4bef0a770d9c,USD,Contrain Endpoint SubOptions,true,false,66973606-e9b9-4f41-bacd-48e4878af41f,0b178c3d-a205-48c8-8698-ec53c3ed3662,"#N/A",EndPThreat,Dependency
+c10fddd4-a4f9-45f7-bece-9a945b629068,USD,Contrain Endpoint SubOptions,true,false,7c2c2842-78c5-4562-9c4e-4c422d31546b,cfc69a3b-61ef-4e82-86ec-0fe83caaa110,"#N/A",EndPThreat,Dependency
+c316ca3a-b3ae-4680-b5b5-d9b286508ec6,USD,Choose Threat Bundle or Nothing,true,false,7c2c2842-78c5-4562-9c4e-4c422d31546b,952a165e-edda-408a-b530-5a1d49ba3cdb,"#N/A",EndSolution,Exclusion
+db84068d-9a57-40eb-a749-c1dde0c6599b,USD,Needs bolt down kit,true,false,c7d56634-c54c-449c-b0bc-19b3793223df,f22a9d54-8739-466a-88fd-fa985a8ccfc9,"#N/A","#N/A",Dependency

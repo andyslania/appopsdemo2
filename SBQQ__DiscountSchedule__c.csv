@@ -1,0 +1,27 @@
+"Guid","CurrencyIsoCode","Name","SBQQ__AggregationScope__c","SBQQ__ConstraintField__c","SBQQ__CrossOrders__c","SBQQ__CrossProducts__c","SBQQ__Description__c","SBQQ__DiscountUnit__c","SBQQ__ExcludedPricebookIds__c","SBQQ__IncludeBundledProducts__c","SBQQ__OverrideBehavior__c","SBQQ__PriceScale__c","SBQQ__Pricebook__c","SBQQ__Product__c","SBQQ__QuoteLineQuantityField__c","SBQQ__Type__c","SBQQ__UsePriceForAmount__c","SBQQ__UserDefined__c"
+0748028b-2d3e-4bb6-82ea-4ff023351f1f,USD,Term Based Tiers,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+0dc28f3e-bc57-4e8f-90e3-a0d70cf19a67,USD,Network Penetration Tests,Quote,"#N/A",false,false,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,Slab,false,false
+0e0a5306-fab3-46c1-902c-2c54f6b64055,USD,Virus Volume Tiers,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,Slab,false,true
+2895b29d-d0a0-4266-98ee-5dd6c1b99d96,USD,Network Penetration Tests,Quote,"#N/A",false,false,"#N/A",Amount,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,Slab,true,true
+496146d4-0cee-4ee2-a028-a4c8173276b2,USD,Discount Schedule,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+547125d2-3c1e-4bf9-a564-b4a16f6c0271,USD,VSphere,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+5ad53bac-5f8e-41dd-8922-b40282a9167f,USD,Virus Volume Tiers,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,Slab,false,true
+5bcdbed8-735c-4dea-98c4-af90b31f327e,USD,*INTERNAL*a0C1I000000JdzNUAS,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,"#N/A","#N/A","#N/A",Range,false,false
+5bd91d3c-1ecc-41d6-a024-281275bf1b6e,USD,Virus Volume Tiers,"#N/A","#N/A",true,true,"#N/A",Amount,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,Slab,true,true
+64da79b7-edd4-4ad2-848e-04a60b1c63b8,USD,Tooless Cable Management,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+698029ba-2312-4ca7-8008-69dbab91a73b,USD,Virus Volume Tiers,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,Slab,false,true
+6a7f166e-9485-4b87-a78b-f574270251fb,USD,*INTERNAL*a0C1I0000037BqWUAU,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A","#N/A",Range,false,false
+6f4de37f-9090-46fe-a0b6-179bfe97f852,USD,Discount Schedule 2,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,false
+79110b7e-63cc-4797-8816-47ec28659349,USD,Virus Volume Tiers,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,Slab,false,true
+8c11daa2-81e5-4fa3-b56c-e261b4765911,USD,Virus Volume Tiers,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,Slab,false,true
+8fdc549f-65a4-4516-9c82-801d54748b25,USD,*INTERNAL*a0C1I0000037BqWUAU,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A","#N/A",Range,false,false
+95ed080c-d717-4147-a04f-12c5ce3f77ae,USD,Virus Volume Tiers,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,Slab,false,false
+9e0bfaba-8d8f-46e5-a874-143798c546fd,USD,Intelligence Network Monitoring Tiers,Quote,"#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,"#N/A","#N/A",Quantity,Range,false,true
+a8ba119c-3b14-4d88-9a0d-79b20d53a5f4,USD,*INTERNAL*a0C1I0000037BqWUAU,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A","#N/A",Range,false,false
+b2ddcf2c-1063-4b2f-9412-6f1f995db6cb,USD,*INTERNAL*a0C1I0000037BqWUAU,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A","#N/A",Range,false,false
+cfbf7a81-65ce-4fb3-99a3-6bbc6ea8ac84,USD,Intelligence Network Monitoring Tiers,Quote,"#N/A",false,false,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,Range,false,false
+ddf49b5d-144a-4751-a4ab-15af97947801,USD,Virus Volume Tiers,"#N/A","#N/A",true,true,"#N/A",Amount,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,Slab,true,true
+deea2258-7609-49f7-8571-89504f03627b,USD,*INTERNAL*a0C1I000000JdzNUAS,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,"#N/A","#N/A","#N/A",Range,false,false
+ed1aab55-e2ed-4de4-9bc0-e477aa1cd175,USD,SSO Reporting User Discount Schedule,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,Range,false,false
+f59ec8fe-ff07-414e-af3c-ab751dbb7125,USD,SSO User Discount Schedule,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,Range,false,false
+f85afbf0-8443-47a3-9d39-b7a2a630e1c4,USD,Hardware Discount Schedule,"#N/A","#N/A",true,false,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,Range,false,false

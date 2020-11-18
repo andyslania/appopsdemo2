@@ -1,0 +1,16 @@
+"Guid","CurrencyIsoCode","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__Product__c","SBQQ__TargetObject__c"
+08005179-977a-4270-aa90-f7567d90b5ed,USD,Billing Frequency Approval,true,"#N/A",All,"#N/A",On Initialization;On Calculate,20.0,"#N/A","#N/A",Calculator
+084886f0-00a5-42a4-b95c-3068d37f4c60,USD,Training Price Rule - deactivate,false,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A","#N/A",Calculator
+27ff882b-3345-4e19-bf4f-0f6ccccd7658,USD,Lookup Approval Level 3 [Discount],true,"#N/A",All,"#N/A",On Initialization,53.0,Approval_Threshold__c,"#N/A",Calculator
+36778dfa-6e57-402a-94a3-ea0f622de384,USD,Set Quantity for VirusScan Mac,false,"#N/A",All,Edit,Before Calculate,"#N/A","#N/A","#N/A",Configurator
+39db3cda-8129-458a-8bdb-93a8db3e1253,USD,Set True Discretionary Discount %,false,"#N/A",All,"#N/A",After Calculate,98.0,"#N/A","#N/A",Calculator
+49783ad2-edac-4cc1-a7af-76f049bf9138,USD,Lookup Approval Level 1 [Discount],true,"#N/A",All,"#N/A",On Initialization,50.0,Approval_Threshold__c,"#N/A",Calculator
+669cfd1d-7a21-4f3b-997a-33540dfd9d6b,USD,Lookup Approval Level [Discount],true,"#N/A",All,"#N/A",On Initialization;Before Calculate;On Calculate;After Calculate,99.0,Approval_Threshold__c,"#N/A",Calculator
+9b2063b3-a45d-4ba8-a05e-62da219752b6,USD,Set VirusScan Device Count,true,111 AND (222 OR 333 OR 444),Custom,Save,"#N/A",1.0,"#N/A","#N/A",Configurator
+ad5bbe31-56e1-498a-aac2-eaedf969feb5,USD,Set VirusScan Device Count (DEP),false,111 AND (222 OR 333 OR 444),Custom,"#N/A",On Initialization,2.0,"#N/A","#N/A",Calculator
+c800e847-6625-446c-86f9-36bd7d1d91e6,USD,Config - Set Device Count,false,"#N/A",All,Edit,"#N/A",99.0,"#N/A","#N/A",Configurator
+ca81745e-0017-4b32-8e87-d9a5188c33c5,USD,Calculate Tax at Order/Invoice,true,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A","#N/A",Calculator
+d593a943-7e04-4656-8932-a0a98350e320,USD,Lookup Approval Level 2 [Discount],true,"#N/A",All,"#N/A",On Initialization,51.0,Approval_Threshold__c,"#N/A",Calculator
+df5cd221-8042-43e0-87f3-4778b9e6e054,USD,Auto Renewal Uplift of 3%,true,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A","#N/A",Calculator
+e3778927-6ba2-4d93-bcff-f4c49609e17a,USD,Hologic Price Rule,false,"#N/A",All,Save,Before Calculate;On Calculate;After Calculate,50.0,SBQQ__LookupData__c,"#N/A",Calculator
+e863084e-5fa5-4f8a-8a41-2d4bbd4e0ea0,USD,Set Professional Services Role Rates,true,"#N/A",All,"#N/A",On Calculate,"#N/A",Professional_Services_Rate__c,"#N/A",Calculator
